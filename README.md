@@ -5,3 +5,4 @@ githubon írtam hozzá
 de jó
 nagyon 
 jó
+igen
