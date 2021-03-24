@@ -6,3 +6,4 @@ de jó
 nagyon 
 jó
 igen
+gh
